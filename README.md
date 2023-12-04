@@ -1,3 +1,1 @@
-# AmritKumarChanchal.github.io
-
-Welcome Friends
+# Website
