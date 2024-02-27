@@ -1,4 +1,4 @@
-![Demo CountPages alpha](Github.gif)
+
 Hii 🖐
 
 Introduction:
