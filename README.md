@@ -30,4 +30,4 @@ Testimonials:
 Read what others have to say about working with me. Client testimonials and feedback provide valuable insights into my dedication and the quality of my work.
 
 Footer:
-© 2023 Amrit Kumar Chanchal. All rights reserved. | Designed and developed by Amrit Kumar Chanchal.
+© 2024 Amrit Kumar Chanchal. All rights reserved. | Designed and developed by Amrit Kumar Chanchal.
